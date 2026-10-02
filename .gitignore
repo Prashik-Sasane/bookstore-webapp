@@ -1,0 +1,13 @@
+# Express backend and React frontend for an online bookstore.
+
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+
+# Build artifacts
+client/dist/
+
+# Editor settings
+.vscode/
+.idea/
